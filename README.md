@@ -3,6 +3,28 @@
 ## Task description
 In the Nodejs Hall Booking Api i have created the end points for create rooms , read room, create bookings, read bookings 
 
+## Created Rooms With
+<ul>
+  <li>id</li>
+  <li>roomName</li>
+  <li>noOfSeatsAvailable</li>
+  <li>amenitiesInRoom</li>
+  <li>pricePerHour</li>
+  <li>status</li>
+</ul>
+
+## Created Bookings With
+<ul>
+  <li>bookingId</li>
+  <li>customerName</li>
+  <li>bookedDate</li>
+  <li>eventDate</li>
+  <li>startTime</li>
+  <li>endTime</li>
+  <li>roomId</li>
+</ul>
+  
+## End Points
 <ul>
   <li>Base url</li>
   <li>https://nodejs-day38-task-hall-booking.onrender.com</li>
